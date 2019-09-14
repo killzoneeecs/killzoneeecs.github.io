@@ -25,7 +25,7 @@ a
 .wrapper
 {
 	width: 900px;
-	height: 100%;
+	min-height: 100%;
 	margin: 0 auto;
 
 	background: rgba(0,0,0,.5);
