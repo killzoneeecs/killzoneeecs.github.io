@@ -298,7 +298,6 @@ h6
 {
 	color: #0073cd;
 }
-
 form input
 {
 	color: white;
@@ -312,8 +311,4 @@ form input
 	left: 328px;
 
 	width: 250px;
-}
-.butHov:hover
-{
-	color: red;
 }
