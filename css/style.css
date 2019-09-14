@@ -300,6 +300,7 @@ h6
 }
 form input
 {
+
 	color: white;
 	border-color: #57594c;
 	background: #282923;
@@ -309,6 +310,9 @@ form input
 	position: relative;
 	top: 177px;
 	left: 328px;
-
-	width: 250px;
+	width: 209px;
+}
+.field
+{
+ width: 204px;
 }
