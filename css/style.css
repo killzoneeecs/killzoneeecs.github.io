@@ -264,23 +264,11 @@ h6
 .btn
 {
 	position: relative;
-	top: 150px;
-	left: 332px;
-
-	width: 210px;
+    top: 150px;
+    left: 376px;
+    width: 210px;
 }
 .button1
-{
-	width: 80px;
-	height: 35px;
-	margin: 0;
-	padding: 0;
-
-	color: white;
-	border-color: #57594c;
-	background: #282923;
-}
-.button2
 {
 	width: 115px;
 	height: 35px;
@@ -291,7 +279,7 @@ h6
 	border-color: #57594c;
 	background: #282923;
 }
-.button3
+.button2
 {
 	position: relative;
 
@@ -310,10 +298,7 @@ h6
 {
 	color: #0073cd;
 }
-.button3:hover
-{
-	color: #0073cd;
-}
+
 form input
 {
 	color: white;
